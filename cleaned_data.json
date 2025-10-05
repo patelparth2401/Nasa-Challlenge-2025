@@ -1,0 +1,305 @@
+[
+  {
+    "Title": "Mice in Bion-M 1 space mission: training and selection.",
+    "Authors": "Andreev-Andrievskiy, Alexander, Popova, Anfisa, Boyle, Richard, Alberts, Jeffrey, Shenkman, Boris, Vinogradova, Olga, Dolgov, Oleg, Anokhin, Konstantin, Tsvirkun, Darya, Soldatov, Pavel, Nemirovskaya, Tatyana, Ilyin, Eugeniy, Sychev, Vladimir",
+    "Year": "2014",
+    "Keywords": "Eating, Space Flight, Mice, Inbred C57BL, Weightlessness, Male, Biomedical Research, Russia, Research Design, Animals, Physical Conditioning, Animal, Adaptation, Physiological, Housing, Animal",
+    "Abstract": "After a 16-year hiatus, Russia has resumed its program of biomedical research in space, with the successful 30-day flight of the Bion-M 1 biosatellite (April 19-May 19, 2013). The principal species for biomedical research in this project was the mouse. This paper presents an overview of the scientific goals, the experimental design and the mouse training/selection program. The aim of mice experiments in the Bion-M 1 project was to elucidate cellular and molecular mechanisms, underlying the adaptation of key physiological systems to long-term exposure in microgravity. The studies with mice combined in vivo measurements, both in flight and post-flight (including continuous blood pressure measurement), with extensive in vitro studies carried out shortly after return of the mice and in the end of recovery study. Male C57/BL6 mice group housed in space habitats were flown aboard the Bion-M 1 biosatellite, or remained on ground in the control experiment that replicated environmental and housing conditions in the spacecraft. Vivarium control groups were used to account for housing effects and possible seasonal differences. Mice training included the co-adaptation in housing groups and mice adaptation to paste food diet. The measures taken to co-adapt aggressive male mice in housing groups and the peculiarities of \"space\" paste food are described. The training program for mice designated for in vivo studies was broader and included behavioral/functional test battery and continuous behavioral measurements in the home-cage. The results of the preliminary tests were used for the selection of homogenous groups. After the flight, mice were in good condition for biomedical studies and displayed signs of pronounced disadaptation to Earth's gravity. The outcomes of the training program for the mice welfare are discussed. We conclude that our training program was effective and that male mice can be successfully employed in space biomedical research.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136787/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/25133741/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0104830"
+    }
+  },
+  {
+    "Title": "Microgravity induces pelvic bone loss through osteoclastic activity, osteocytic osteolysis, and osteoblastic cell cycle inhibition by CDKN1a/p21.",
+    "Authors": "Blaber, Elizabeth A, Dvorochkin, Natalya, Lee, Chialing, Alwood, Joshua S, Yousuf, Rukhsana, Pianetta, Piero, Globus, Ruth K, Burns, Brendan P, Almeida, Eduardo A C",
+    "Year": "2013",
+    "Keywords": "Female, Mice, Inbred C57BL, Bone Resorption, Weightlessness, Osteoclasts, Animals, Cyclin-Dependent Kinase Inhibitor p21, Osteocytes, X-Ray Microtomography, Osteolysis, Cell Cycle Checkpoints, Mice, Pelvic Bones, Bone and Bones",
+    "Abstract": "Bone is a dynamically remodeled tissue that requires gravity-mediated mechanical stimulation for maintenance of mineral content and structure. Homeostasis in bone occurs through a balance in the activities and signaling of osteoclasts, osteoblasts, and osteocytes, as well as proliferation and differentiation of their stem cell progenitors. Microgravity and unloading are known to cause osteoclast-mediated bone resorption; however, we hypothesize that osteocytic osteolysis, and cell cycle arrest during osteogenesis may also contribute to bone loss in space. To test this possibility, we exposed 16-week-old female C57BL/6J mice (n = 8) to microgravity for 15-days on the STS-131 space shuttle mission. Analysis of the pelvis by µCT shows decreases in bone volume fraction (BV/TV) of 6.29%, and bone thickness of 11.91%. TRAP-positive osteoclast-covered trabecular bone surfaces also increased in microgravity by 170% (p = 0.004), indicating osteoclastic bone degeneration. High-resolution X-ray nanoCT studies revealed signs of lacunar osteolysis, including increases in cross-sectional area (+17%, p = 0.022), perimeter (+14%, p = 0.008), and canalicular diameter (+6%, p = 0.037). Expression of matrix metalloproteinases (MMP) 1, 3, and 10 in bone, as measured by RT-qPCR, was also up-regulated in microgravity (+12.94, +2.98 and +16.85 fold respectively, p<0.01), with MMP10 localized to osteocytes, and consistent with induction of osteocytic osteolysis. Furthermore, expression of CDKN1a/p21 in bone increased 3.31 fold (p<0.01), and was localized to osteoblasts, possibly inhibiting the cell cycle during tissue regeneration as well as conferring apoptosis resistance to these cells. Finally the apoptosis inducer Trp53 was down-regulated by -1.54 fold (p<0.01), possibly associated with the quiescent survival-promoting function of CDKN1a/p21. In conclusion, our findings identify the pelvic and femoral region of the mouse skeleton as an active site of rapid bone loss in microgravity, and indicate that this loss is not limited to osteoclastic degradation. Therefore, this study offers new evidence for microgravity-induced osteocytic osteolysis, and CDKN1a/p21-mediated osteogenic cell cycle arrest.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3630201/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/23637819/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0061372"
+    }
+  },
+  {
+    "Title": "Microgravity and Cellular Biology: Insights into Cellular Responses and Implications for Human Health.",
+    "Authors": "López Garzón, Nelson Adolfo, Pinzón-Fernández, María Virginia, Saavedra T, Jhan S, Nati-Castillo, Humberto A, Arias-Intriago, Marlon, Salazar-Santoliva, Camila, Izquierdo-Condoy, Juan S",
+    "Year": "2025",
+    "Keywords": "immune system, microgravity, Weightlessness, Humans, tissue effects, cancer biology, Animals, human health, Myocytes, Cardiac, Cell Differentiation, cardiomyocytes",
+    "Abstract": "Microgravity, defined by minimal gravitational forces, represents a unique environment that profoundly influences biological systems, including human cells. This review examines the effects of microgravity on biological processes and their implications for human health. Microgravity significantly impacts the immune system by disrupting key mechanisms, such as T cell activation, cytokine production, and macrophage differentiation, leading to increased susceptibility to infections. In cancer biology, it promotes the formation of spheroids in cancer stem cells and thyroid cancer cells, which closely mimic in vivo tumor dynamics, providing novel insights for oncology research. Additionally, microgravity enhances tissue regeneration by modulating critical pathways, including Hippo and PI3K-Akt, thereby improving stem cell differentiation into hematopoietic and cardiomyocyte lineages. At the organ level, microgravity induces notable changes in hepatic metabolism, endothelial function, and bone mechanotransduction, contributing to lipid dysregulation, vascular remodeling, and accelerated bone loss. Notably, cardiomyocytes derived from human pluripotent stem cells and cultured under microgravity exhibit enhanced mitochondrial biogenesis, improved calcium handling, and advanced structural maturation, including increased sarcomere length and nuclear eccentricity. These advancements enable the development of functional cardiomyocytes, presenting promising therapeutic opportunities for treating cardiac diseases, such as myocardial infarctions. These findings underscore the dual implications of microgravity for space medicine and terrestrial health. They highlight its potential to drive advances in regenerative therapies, oncology, and immunological interventions. Continued research into the biological effects of microgravity is essential for protecting astronaut health during prolonged space missions and fostering biomedical innovations with transformative applications on Earth.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11988870/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/40243850/",
+      "DOI": "https://doi.org/10.3390/ijms26073058"
+    }
+  },
+  {
+    "Title": "Selective Proliferation of Highly Functional Adipose-Derived Stem Cells in Microgravity Culture with Stirred Microspheres.",
+    "Authors": "Mashiko, Takanobu, Kanayama, Koji, Saito, Natsumi, Shirado, Takako, Asahi, Rintaro, Mori, Masanori, Yoshimura, Kotaro",
+    "Year": "2021",
+    "Keywords": "Cell Proliferation, microgravity culture, Embryonic Stem Cells, Healthy Volunteers, Humans, collagen microsphere, Cell Differentiation, multilineage-differentiating stress-enduring cell, Adult, polystyrene microsphere, Microspheres, Adipose Tissue, adipose-derived stem cell, Female",
+    "Abstract": "Therapeutic effects of adult stem-cell transplantations are limited by poor cell-retention in target organs, and a reduced potential for optimal cell differentiation compared to embryonic stem cells. However, contemporary studies have indicated heterogeneity within adult stem-cell pools, and a novel culturing technique may address these limitations by selecting those for cell proliferation which are highly functional. Here, we report the preservation of stemness in human adipose-derived stem cells (hASCs) by using microgravity conditions combined with microspheres in a stirred suspension. The cells were bound to microspheres (100-300 μm) and cultured using a wave-stirring shaker. One-week cultures using polystyrene and collagen microspheres increased the proportions of SSEA-3(+) hASCs 4.4- and 4.3-fold (2.7- and 2.9-fold increases in their numbers), respectively, compared to normal culture conditions. These cultured hASCs expressed higher levels of pluripotent markers (OCT4, SOX2, NANOG, MYC, and KLF), and had improved abilities for proliferation, colony formation, network formation, and multiple-mesenchymal differentiation. We believe that this novel culturing method may further enhance regenerative therapies using hASCs.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998608/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/33806638/",
+      "DOI": "https://doi.org/10.3390/cells10030560"
+    }
+  },
+  {
+    "Title": "Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station.",
+    "Authors": "Parra, Macarena, Jung, Jimmy, Boone, Travis D, Tran, Luan, Blaber, Elizabeth A, Brown, Mark, Chin, Matthew, Chinn, Tori, Cohen, Jacob, Doebler, Robert, Hoang, Dzung, Hyde, Elizabeth, Lera, Matthew, Luzod, Louie T, Mallinson, Mark, Marcu, Oana, Mohamedaly, Youssef, Ricco, Antonio J, Rubins, Kathleen, Sgarlato, Gregory D, Talavera, Rafael O, Tong, Peter, Uribe, Eddie, Williams, Jeffrey, Wu, Diana, Yousuf, Rukhsana, Richey, Charles S, Schonfeld, Julie, Almeida, Eduardo A C",
+    "Year": "2017",
+    "Keywords": "Mice, Freeze Drying, Weightlessness, RNA, Spacecraft, Animals, Reproducibility of Results, Multiplex Polymerase Chain Reaction, Real-Time Polymerase Chain Reaction, Liver, Escherichia coli, Gene Expression Regulation",
+    "Abstract": "The International Space Station (ISS) National Laboratory is dedicated to studying the effects of space on life and physical systems, and to developing new science and technologies for space exploration. A key aspect of achieving these goals is to operate the ISS National Lab more like an Earth-based laboratory, conducting complex end-to-end experimentation, not limited to simple microgravity exposure. Towards that end NASA developed a novel suite of molecular biology laboratory tools, reagents, and methods, named WetLab-2, uniquely designed to operate in microgravity, and to process biological samples for real-time gene expression analysis on-orbit. This includes a novel fluidic RNA Sample Preparation Module and fluid transfer devices, all-in-one lyophilized PCR assays, centrifuge, and a real-time PCR thermal cycler. Here we describe the results from the WetLab-2 validation experiments conducted in microgravity during ISS increment 47/SPX-8. Specifically, quantitative PCR was performed on a concentration series of DNA calibration standards, and Reverse Transcriptase-quantitative PCR was conducted on RNA extracted and purified on-orbit from frozen Escherichia coli and mouse liver tissue. Cycle threshold (Ct) values and PCR efficiencies obtained on-orbit from DNA standards were similar to Earth (1 g) controls. Also, on-orbit multiplex analysis of gene expression from bacterial cells and mammalian tissue RNA samples was successfully conducted in about 3 h, with data transmitted within 2 h of experiment completion. Thermal cycling in microgravity resulted in the trapping of gas bubbles inside septa cap assay tubes, causing small but measurable increases in Ct curve noise and variability. Bubble formation was successfully suppressed in a rapid follow-up on-orbit experiment using standard caps to pressurize PCR tubes and reduce gas release during heating cycles. The WetLab-2 facility now provides a novel operational on-orbit research capability for molecular biology and demonstrates the feasibility of more complex wet bench experiments in the ISS National Lab environment.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5587110/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/28877184/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0183480"
+    }
+  },
+  {
+    "Title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart.",
+    "Authors": "Kumar, Akhilesh, Tahimic, Candice G T, Almeida, Eduardo A C, Globus, Ruth K",
+    "Year": "2021",
+    "Keywords": "Myc, Apoptosis, Space Flight, Mice, Inbred C57BL, Oxidative Stress, heart, Cell Cycle, Female, Animals, Mice, NADPH oxidase, oxidative stress, spaceflight, Oxidation-Reduction, Genes, cdc, Signal Transduction, Cdkn1a, microgravity, Weightlessness, Ptgs2, Heart, gene expression, Nfe2l2, Gene Expression Regulation",
+    "Abstract": "Spaceflight causes cardiovascular changes due to microgravity-induced redistribution of body fluids and musculoskeletal unloading. Cardiac deconditioning and atrophy on Earth are associated with altered <i>Trp53</i> and oxidative stress-related pathways, but the effects of spaceflight on cardiac changes at the molecular level are less understood. We tested the hypothesis that spaceflight alters the expression of key genes related to stress response pathways, which may contribute to cardiovascular deconditioning during extended spaceflight. Mice were exposed to spaceflight for 15 days or maintained on Earth (ground control). Ventricle tissue was harvested starting ~3 h post-landing. We measured expression of select genes implicated in oxidative stress pathways and <i>Trp53</i> signaling by quantitative PCR. Cardiac expression levels of 37 of 168 genes tested were altered after spaceflight. Spaceflight downregulated transcription factor, <i>Nfe2l2 (Nrf2)</i>, upregulated <i>Nox1</i> and downregulated <i>Ptgs2</i>, suggesting a persistent increase in oxidative stress-related target genes. Spaceflight also substantially upregulated <i>Cdkn1a</i> (<i>p21</i>) and cell cycle/apoptosis-related gene <i>Myc</i>, and downregulated the inflammatory response gene <i>Tnf</i>. There were no changes in apoptosis-related genes such as <i>Trp53</i>. Spaceflight altered the expression of genes regulating redox balance, cell cycle and senescence in cardiac tissue of mice. Thus, spaceflight may contribute to cardiac dysfunction due to oxidative stress.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8396460/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/34445793/",
+      "DOI": "https://doi.org/10.3390/ijms22169088"
+    }
+  },
+  {
+    "Title": "Dose- and Ion-Dependent Effects in the Oxidative Stress Response to Space-Like Radiation Exposure in the Skeletal System.",
+    "Authors": "Alwood, Joshua S, Tran, Luan H, Schreurs, Ann-Sofie, Shirazi-Fard, Yasaman, Kumar, Akhilesh, Hilton, Diane, Tahimic, Candice G T, Globus, Ruth K",
+    "Year": "2017",
+    "Keywords": "Gene Expression, Mice, Inbred C57BL, Oxidative Stress, cancellous bone, osteoblast, Protons, Linear Energy Transfer, Dose-Response Relationship, Radiation, Radiation Exposure, Radiation Dosage, Osteogenesis, Musculoskeletal Physiological Phenomena, Male, Animals, Mice, ionizing radiation, oxidative stress, spaceflight, Oxidation-Reduction, Bone Marrow Cells, Radiation, Ionizing, Iron Isotopes",
+    "Abstract": "Space radiation may pose a risk to skeletal health during subsequent aging. Irradiation acutely stimulates bone remodeling in mice, although the long-term influence of space radiation on bone-forming potential (osteoblastogenesis) and possible adaptive mechanisms are not well understood. We hypothesized that ionizing radiation impairs osteoblastogenesis in an ion-type specific manner, with low doses capable of modulating expression of redox-related genes. 16-weeks old, male, C57BL6/J mice were exposed to low linear-energy-transfer (LET) protons (150 MeV/n) or high-LET <sup>56</sup>Fe ions (600 MeV/n) using either low (5 or 10 cGy) or high (50 or 200 cGy) doses at NASA's Space Radiation Lab. Five weeks or one year after irradiation, tissues were harvested and analyzed by microcomputed tomography for cancellous microarchitecture and cortical geometry. Marrow-derived, adherent cells were grown under osteoblastogenic culture conditions. Cell lysates were analyzed by RT-PCR during the proliferative or mineralizing phase of growth, and differentiation was analyzed by imaging mineralized nodules. As expected, a high dose (200 cGy), but not lower doses, of either <sup>56</sup>Fe or protons caused a loss of cancellous bone volume/total volume. Marrow cells produced mineralized nodules ex vivo regardless of radiation type or dose; <sup>56</sup>Fe (200 cGy) inhibited osteoblastogenesis by more than 90% (5 weeks and 1 year post-IR). After 5 weeks, irradiation (protons or <sup>56</sup>Fe) caused few changes in gene expression levels during osteoblastogenesis, although a high dose <sup>56</sup>Fe (200 cGy) increased <i>Catalase</i> and <i>Gadd45</i>. The addition of exogenous superoxide dismutase (SOD) protected marrow-derived osteoprogenitors from the damaging effects of exposure to low-LET (<sup>137</sup>Cs γ) when irradiated in vitro, but had limited protective effects on high-LET <sup>56</sup>Fe-exposed cells. In sum, either protons or <sup>56</sup>Fe at a relatively high dose (200 cGy) caused persistent bone loss, whereas only high-LET <sup>56</sup>Fe increased redox-related gene expression, albeit to a limited extent, and inhibited osteoblastogenesis. Doses below 50 cGy did not elicit widespread responses in any parameter measured. We conclude that high-LET irradiation at 200 cGy impaired osteoblastogenesis and regulated steady-state gene expression of select redox-related genes during osteoblastogenesis, which may contribute to persistent bone loss.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666799/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/28994728/",
+      "DOI": "https://doi.org/10.3390/ijms18102117"
+    }
+  },
+  {
+    "Title": "From the bench to exploration medicine: NASA life sciences translational research for human exploration and habitation missions.",
+    "Authors": "Alwood, Joshua S, Ronca, April E, Mains, Richard C, Shelhamer, Mark J, Smith, Jeffrey D, Goodwin, Thomas J",
+    "Year": "2017",
+    "Keywords": "",
+    "Abstract": "NASA's Space Biology and Human Research Program entities have recently spearheaded communications both internally and externally to coordinate the agency's translational research efforts. In this paper, we strongly advocate for translational research at NASA, provide recent examples of NASA sponsored early-stage translational research, and discuss options for a path forward. Our overall objective is to help in stimulating a collaborative research across multiple disciplines and entities that, working together, will more effectively and more rapidly achieve NASA's goals for human spaceflight.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460236/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/28649627/",
+      "DOI": "https://doi.org/10.1038/s41526-016-0002-8"
+    },
+    "Publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "Title": "High-precision method for cyclic loading of small-animal vertebrae to assess bone quality",
+    "Authors": "Pendleton, Megan M., Sadoughi, Saghi, Li, Alfred, O'Connell, Grace D., Alwood, Joshua S., Keaveny, Tony M.",
+    "Year": "2018",
+    "Keywords": "Life Sciences (General), Bone quality",
+    "Abstract": "One potentially important bone quality characteristic is the response of bone to cyclic (repetitive) mechanical loading. In small animals, such as in rats and mice, cyclic loading experiments are particularly challenging to perform in a precise manner due to the small size of the bones and difficult-to-eliminate machine compliance. Addressing this issue, we developed a precise method for ex vivo cyclic compressive loading of isolated mouse vertebral bodies. The method has three key characteristics: 3D-printed support jigs for machining plano-parallel surfaces of the tiny vertebrae; pivotable loading platens to ensure uniform contact and loading of specimen surfaces; and specimen-specific micro-CT-based finite element analysis to measure stiffness to prescribe force levels that produce the same specified level of strain for all test specimens. To demonstrate utility, we measured fatigue life for three groups (n = 5-6 per group) of L5 vertebrae of C57BL/6J male mice, comparing our new method against two methods commonly used in the literature. We found reduced scatter of the mechanical behavior for this new method compared to the literature methods. In particular, for a controlled level of strain, the standard deviation of the measured fatigue life was up to 5-fold lower for the new method (F-ratio = 4.9; p &lt; 0.01). The improved precision for this new method for biomechanical testing of small-animal vertebrae may help elucidate aspects of bone quality.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6222041/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/30417036/",
+      "DOI": "https://doi.org/10.1016/j.bonr.2018.10.002"
+    }
+  },
+  {
+    "Title": "Effects of ex vivo ionizing radiation on collagen structure and whole-bone mechanical properties of mouse vertebrae",
+    "Authors": "Pendleton, Megan M., Emerzian, Shannon R., Liu, Jennifer, Tang, Simon Y., O'Connell, Grace D., Alwood, Joshua S., Keaveny, Tony M.",
+    "Year": "2019",
+    "Keywords": "histology, physiology, endocrinology, diabetes and metabolism",
+    "Abstract": "One potentially important bone quality characteristic is the response of bone to cyclic (repetitive) mechanical loading. In small animals, such as in rats and mice, cyclic loading experiments are particularly challenging to perform in a precise manner due to the small size of the bones and difficult-to-eliminate machine compliance. Addressing this issue, we developed a precise method for ex vivo cyclic compressive loading of isolated mouse vertebral bodies. The method has three key characteristics: 3D-printed support jigs for machining plano-parallel surfaces of the tiny vertebrae; pivotable loading platens to ensure uniform contact and loading of specimen surfaces; and specimen-specific micro-CT-based finite element analysis to measure stiffness to prescribe force levels that produce the same specified level of strain for all test specimens. To demonstrate utility, we measured fatigue life for three groups (n = 5-6 per group) of L5 vertebrae of C57BL/6J male mice, comparing our new method against two methods commonly used in the literature. We found reduced scatter of the mechanical behavior for this new method compared to the literature methods. In particular, for a controlled level of strain, the standard deviation of the measured fatigue life was up to 5-fold lower for the new method (F-ratio = 4.9; p &lt; 0.01). The improved precision for this new method for biomechanical testing of small-animal vertebrae may help elucidate aspects of bone quality.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6813909/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/31445224/",
+      "DOI": "https://doi.org/10.1016/j.bone.2019.115043"
+    }
+  },
+  {
+    "Title": "Absence of γ-sarcoglycan alters the response of p70S6 kinase to mechanical perturbation in murine skeletal muscle.",
+    "Authors": "Moorwood, Catherine, Philippou, Anastassios, Spinazzola, Janelle, Keyser, Benjamin, Macarak, Edward J, Barton, Elisabeth R",
+    "Year": "2014",
+    "Keywords": "Sarcoglycanopathies, S6K, p70S6 kinase, Mechano-sensing, Load-sensing, p70S6K, Limb girdle muscular dystrophy, Mechanotransduction, ERK1/2, Sarcoglycan",
+    "Abstract": "The dystrophin glycoprotein complex (DGC) is located at the sarcolemma of muscle fibers, providing structural integrity. Mutations in and loss of DGC proteins cause a spectrum of muscular dystrophies. When only the sarcoglycan subcomplex is absent, muscles display severe myofiber degeneration, but little susceptibility to contractile damage, suggesting that disease occurs not by structural deficits but through aberrant signaling, namely, loss of normal mechanotransduction signaling through the sarcoglycan complex. We extended our previous studies on mechanosensitive, γ-sarcoglycan-dependent ERK1/2 phosphorylation, to determine whether additional pathways are altered with the loss of γ-sarcoglycan. We examined mechanotransduction in the presence and absence of γ-sarcoglycan, using C2C12 myotubes, and primary cultures and isolated muscles from C57Bl/6 (C57) and γ-sarcoglycan-null (γ-SG(-/-)) mice. All were subjected to cyclic passive stretch. Signaling protein phosphorylation was determined by immunoblotting of lysates from stretched and non-stretched samples. Calcium dependence was assessed by maintaining muscles in calcium-free or tetracaine-supplemented Ringer's solution. Dependence on mTOR was determined by stretching isolated muscles in the presence or absence of rapamycin. C2C12 myotube stretch caused a robust increase in P-p70S6K, but decreased P-FAK and P-ERK2. Neither Akt nor ERK1 were responsive to passive stretch. Similar but non-significant trends were observed in C57 primary cultures in response to stretch, and γ-SG(-/-) cultures displayed no p70S6K response. In contrast, in isolated muscles, p70S6K was mechanically responsive. Basal p70S6K activation was elevated in muscles of γ-SG(-/-) mice, in a calcium-independent manner. p70S6K activation increased with stretch in both C57 and γ-SG(-/-) isolated muscles, and was sustained in γ-SG(-/-) muscles, unlike the transient response in C57 muscles. Rapamycin treatment blocked all of p70S6K activation in stretched C57 muscles, and reduced downstream S6RP phosphorylation. However, even though rapamycin treatment decreased p70S6K activation in stretched γ-SG(-/-) muscles, S6RP phosphorylation remained elevated. p70S6K is an important component of γ-sarcoglycan-dependent mechanotransduction in skeletal muscle. Our results suggest that loss of γ-sarcoglycan uncouples the response of p70S6K to stretch and implies that γ-sarcoglycan is important for inactivation of this pathway. Overall, we assert that altered load-sensing mechanisms exist in muscular dystrophies where the sarcoglycans are absent.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4095884/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/25024843/",
+      "DOI": "https://doi.org/10.1186/2044-5040-4-13"
+    }
+  },
+  {
+    "Title": "AtRabD2b and AtRabD2c have overlapping functions in pollen development and pollen tube growth",
+    "Authors": "Peng, Jianling, Ilarslan, Hilal, Wurtele, Eve Syrkin, Bassham, Diane C.",
+    "Year": "2011",
+    "Keywords": "",
+    "Abstract": "Background Rab GTPases are important regulators of endomembrane trafficking, regulating exocytosis, endocytosis and membrane recycling. Many Rab-like proteins exist in plants, but only a subset have been functionally characterized. Results Here we report that AtRabD2b and AtRabD2c play important roles in pollen development, germination and tube elongation. AtrabD2b and AtrabD2c single mutants have no obvious morphological changes compared with wild-type plants across a variety of growth conditions. An AtrabD2b/2c double mutant is also indistinguishable from wild-type plants during vegetative growth; however its siliques are shorter than those in wild-type plants. Compared with wild-type plants, AtrabD2b/2c mutants produce deformed pollen with swollen and branched pollen tube tips. The shorter siliques in the AtrabD2b/2c double mutant were found to be primarily due to the pollen defects. AtRabD2b and AtRabD2c have different but overlapping expression patterns, and they are both highly expressed in pollen. Both AtRabD2b and AtRabD2c protein localize to Golgi bodies. Conclusions These findings support a partially redundant role for AtRabD2b and AtRabD2c in vesicle trafficking during pollen tube growth that cannot be fulfilled by the remaining AtRabD family members.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3040128/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/21269510/",
+      "DOI": "https://doi.org/10.1186/1471-2229-11-25"
+    },
+    "Publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "Title": "TNO1 is involved in salt tolerance and vacuolar trafficking in Arabidopsis.",
+    "Authors": "Kim, Sang-Jin, Bassham, Diane C",
+    "Year": "2011",
+    "Keywords": "Vacuoles, Mutation, Brefeldin A, Stress, Physiological, Sodium Chloride, Protein Binding, Membrane Fusion, Gene Knockout Techniques, Qa-SNARE Proteins, Molecular Sequence Data, Homozygote, Vesicular Transport Proteins, Arabidopsis Proteins, Protein Transport, Osmotic Pressure, Arabidopsis, Salt Tolerance, trans-Golgi Network, Membrane Proteins",
+    "Abstract": "The Arabidopsis (Arabidopsis thaliana) soluble N-ethylmaleimide-sensitive factor attachment protein receptor SYP41 is involved in vesicle fusion at the trans-Golgi network (TGN) and interacts with AtVPS45, SYP61, and VTI12. These proteins are involved in diverse cellular processes, including vacuole biogenesis and stress tolerance. A previously uncharacterized protein, named TNO1 (for TGN-localized SYP41-interacting protein), was identified by coimmunoprecipitation as a SYP41-interacting protein. TNO1 was found to localize to the TGN by immunofluorescence microscopy. A tno1 mutant showed increased sensitivity to high concentrations of NaCl, KCl, and LiCl and also to mannitol-induced osmotic stress. Localization of SYP61, which is involved in the salt stress response, was disrupted in the tno1 mutant. Vacuolar proteins were partially secreted to the apoplast in the tno1 mutant, suggesting that TNO1 is required for efficient protein trafficking to the vacuole. The tno1 mutant had delayed formation of the brefeldin A (BFA) compartment in cotyledons upon application of BFA, suggesting less efficient membrane fusion processes in the mutant. Unlike most TGN proteins, TNO1 does not relocate to the BFA compartment upon BFA treatment. These data demonstrate that TNO1 is involved in vacuolar trafficking and salt tolerance, potentially via roles in vesicle fusion and in maintaining TGN structure or identity.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177255/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/21521696/",
+      "DOI": "https://doi.org/10.1104/pp.110.168963"
+    }
+  },
+  {
+    "Title": "Identification of a novel Golgi-localized putative glycosyltransferase protein in <i>Arabidopsis thaliana</i>.",
+    "Authors": "Rzepecka, Natalia, Ito, Yoko, Yura, Kei, Ito, Emi, Uemura, Tomohiro",
+    "Year": "2024",
+    "Keywords": "membrane trafficking, trans-Golgi network, Golgi apparatus, glycosylation",
+    "Abstract": "SNAREs play an important role in the process of membrane trafficking. In the present research, we investigated subcellular localization of an uncharacterized <i>Arabidopsis thaliana</i> protein reported to interact with a <i>trans</i>-Golgi network-localized Qa-SNARE, SYNTAXIN OF PLANTS 43. Based on the similarity of its amino acid sequence to metazoan fucosyltransferases, we have named this novel protein AtGTLP (<i>Arabidopsis thaliana</i> <b>G</b>lycosyl<b>T</b>ransferase-<b>L</b>ike <b>P</b>rotein) and predicted that it should be a member of yet uncharacterized family of Arabidopsis fucosyltransferases, as it shows no significant sequence similarity to fucosyltransferases previously identified in Arabidopsis. AtGTLP is a membrane-anchored protein, which exhibits a type II-like topology, with a single transmembrane helix and a globular domain in the C-terminal part of its amino acid sequence. Colocalization data we collected suggest that AtGTLP should localize mainly to Golgi apparatus, especially to certain zones of <i>trans</i>-Golgi. As single <i>atgtlp-/-</i> mutants showed no obvious difference in phenotype (primary root length and fresh mass), AtGTLP and proteins related to AtGTLP with high similarity in amino acid sequences may have redundant functions.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11500582/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/39464868/",
+      "DOI": "https://doi.org/10.5511/plantbiotechnology.23.1214a"
+    }
+  },
+  {
+    "Title": "TNO1, a TGN-localized SNARE-interacting protein, modulates root skewing in Arabidopsis thaliana",
+    "Authors": "Roy, Rahul, Bassham, Diane C.",
+    "Year": "2017",
+    "Keywords": "plant science",
+    "Abstract": "Background Spaceflight is a novel and profoundly stressful environment for life. One aspect of spaceflight, microgravity, has been shown to perturb animal physiology thereby posing numerous health risks, including dysregulation of normal developmental pathways. Microgravity can also negatively impact the interactions between animals and their microbiomes. However, the effects of microgravity on developmental processes influenced by beneficial microbes, such as apoptosis, remains poorly understood. Here, the binary mutualism between the bobtail squid, Euprymna scolopes, and the gram-negative bacterium, Vibrio fischeri, was studied under modeled microgravity conditions to elucidate how this unique stressor alters apoptotic cell death induced by beneficial microbes. Results Analysis of the host genome and transcriptome revealed a complex network of apoptosis genes affiliated with extrinsic/receptor-mediated and intrinsic/stress-induced apoptosis. Expression of apoptosis genes under modeled microgravity conditions occurred earlier and at high levels compared to gravity controls, in particular the expression of genes encoding initiator and executioner caspases. Functional assays of these apoptotic proteases revealed heightened activity under modeled microgravity; however, these increases could be mitigated using caspase inhibitors. Conclusions The outcomes of this study indicated that modeled microgravity alters the expression of both extrinsic and intrinsic apoptosis gene expression and that this process is mediated in part by caspases. Modeled microgravity-associated increases of caspase activity can be pharmacologically inhibited suggesting that perturbations to the normal apoptosis signaling cascade can be mitigated, which may have broader implications for maintaining animal-microbial homeostasis in spaceflight.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5387210/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/28399805/",
+      "DOI": "https://doi.org/10.1186/s12870-017-1024-4"
+    }
+  },
+  {
+    "Title": "Gravitropism and Lateral Root Emergence are Dependent on the Trans-Golgi Network Protein TNO1",
+    "Authors": "Roy, Rahul, Bassham, Diane C.",
+    "Year": "2015",
+    "Keywords": "auxin, trans-Golgi network, lateral root, gravitropism, tethering factor",
+    "Abstract": "The trans-Golgi network (TGN) is a dynamic organelle that functions as a relay station for receiving endocytosed cargo, directing secretory cargo, and trafficking to the vacuole. TGN-localized SYP41-interacting protein (TNO1) is a large, TGN-localized, coiled-coil protein that associates with the membrane fusion protein SYP41, a target SNARE, and is required for efficient protein trafficking to the vacuole. Here, we show that a tno1 mutant has auxin transport-related defects. Mutant roots have delayed lateral root emergence, decreased gravitropic bending of plant organs and increased sensitivity to the auxin analog 2,4-dichlorophenoxyacetic acid and the natural auxin 3-indoleacetic acid. Auxin asymmetry at the tips of elongating stage II lateral roots was reduced in the tno1 mutant, suggesting a role for TNO1 in cellular auxin transport during lateral root emergence. During gravistimulation, tno1 roots exhibited delayed auxin transport from the columella to the basal epidermal cells. Endocytosis to the TGN was unaffected in the mutant, indicating that bulk endocytic defects are not responsible for the observed phenotypes. Together these studies demonstrate a role for TNO1 in mediating auxin responses during root development and gravistimulation, potentially through trafficking of auxin transport proteins.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642138/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/26617617/",
+      "DOI": "https://doi.org/10.3389/fpls.2015.00969"
+    }
+  },
+  {
+    "Title": "TNO1, a TGN-localized SNARE-interacting protein, modulates root skewing in Arabidopsis thaliana",
+    "Authors": "Roy, Rahul, Bassham, Diane C.",
+    "Year": "2017",
+    "Keywords": "plant science",
+    "Abstract": "Background Spaceflight is a novel and profoundly stressful environment for life. One aspect of spaceflight, microgravity, has been shown to perturb animal physiology thereby posing numerous health risks, including dysregulation of normal developmental pathways. Microgravity can also negatively impact the interactions between animals and their microbiomes. However, the effects of microgravity on developmental processes influenced by beneficial microbes, such as apoptosis, remains poorly understood. Here, the binary mutualism between the bobtail squid, Euprymna scolopes, and the gram-negative bacterium, Vibrio fischeri, was studied under modeled microgravity conditions to elucidate how this unique stressor alters apoptotic cell death induced by beneficial microbes. Results Analysis of the host genome and transcriptome revealed a complex network of apoptosis genes affiliated with extrinsic/receptor-mediated and intrinsic/stress-induced apoptosis. Expression of apoptosis genes under modeled microgravity conditions occurred earlier and at high levels compared to gravity controls, in particular the expression of genes encoding initiator and executioner caspases. Functional assays of these apoptotic proteases revealed heightened activity under modeled microgravity; however, these increases could be mitigated using caspase inhibitors. Conclusions The outcomes of this study indicated that modeled microgravity alters the expression of both extrinsic and intrinsic apoptosis gene expression and that this process is mediated in part by caspases. Modeled microgravity-associated increases of caspase activity can be pharmacologically inhibited suggesting that perturbations to the normal apoptosis signaling cascade can be mitigated, which may have broader implications for maintaining animal-microbial homeostasis in spaceflight.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5387210/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/28399805/",
+      "DOI": "https://doi.org/10.1186/s12870-017-1024-4"
+    }
+  },
+  {
+    "Title": "The Drosophila SUN protein Spag4 cooperates with the coiled-coil protein Yuri Gagarin to maintain association of the basal body and spermatid nucleus.",
+    "Authors": "Kracklauer, Martin P, Wiora, Heather M, Deery, William J, Chen, Xin, Bolival, Benjamin, Romanowicz, Dwight, Simonette, Rebecca A, Fuller, Margaret T, Fischer, Janice A, Beckingham, Kathleen M",
+    "Year": "2010",
+    "Keywords": "Spermatids, Spermatogenesis, Centrioles, Spermatozoa, Male, Humans, Dyneins, Mutation, Animals, Drosophila Proteins, Dynactin Complex, Drosophila melanogaster, Nuclear Proteins, Fourier Analysis, Gene Knockout Techniques, Carrier Proteins, Microtubule-Associated Proteins",
+    "Abstract": "Maintaining the proximity of centrosomes to nuclei is important in several cellular contexts, and LINC complexes formed by SUN and KASH proteins are crucial in this process. Here, we characterize the presumed Drosophila ortholog of the mammalian SUN protein, sperm-associated antigen 4 (Spag4, previously named Giacomo), and demonstrate that Spag4 is required for centriole and nuclear attachment during spermatogenesis. Production of spag4 mRNA is limited to the testis, and Spag4 protein shows a dynamic pattern of association with the germline nuclei, including a concentration of protein at the site of attachment of the single spermatid centriole. In the absence of Spag4, nuclei and centrioles or basal bodies (BBs) dissociate from each other after meiosis. This role of Spag4 in centriolar attachment does not involve either of the two KASH proteins of the Drosophila genome (Klarsicht and MSP-300), but does require the coiled-coil protein Yuri Gagarin. Yuri shows an identical pattern of localization at the nuclear surface to Spag4 during spermatogenesis, and epistasis studies show that the activities of Yuri and dynein-dynactin are downstream of spag4 in this centriole attachment pathway. The later defects in spermatogenesis seen for yuri and spag4 mutants are similar, suggesting they could be secondary to initial disruption of events at the nuclear surface.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2915878/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/20647369/",
+      "DOI": "https://doi.org/10.1242/jcs.066589"
+    }
+  },
+  {
+    "Title": "Toll mediated infection response is altered by gravity and spaceflight in Drosophila.",
+    "Authors": "Taylor, Katherine, Kleinhesselink, Kurt, George, Michael D, Morgan, Rachel, Smallwood, Tangi, Hammonds, Ann S, Fuller, Patrick M, Saelao, Perot, Alley, Jeff, Gibbs, Allen G, Hoshizaki, Deborah K, von Kalm, Laurence, Fuller, Charles A, Beckingham, Kathleen M, Kimbrell, Deborah A",
+    "Year": "2014",
+    "Keywords": "Antimicrobial Cationic Peptides, Signal Transduction, Space Flight, Hypergravity, Weightlessness, Male, Animals, Drosophila Proteins, Heat-Shock Proteins, Immunity, Innate, Drosophila melanogaster, Immunocompromised Host, Botrytis, Toll-Like Receptors, Escherichia coli, Gene Expression Regulation",
+    "Abstract": "Space travel presents unlimited opportunities for exploration and discovery, but requires better understanding of the biological consequences of long-term exposure to spaceflight. Immune function in particular is relevant for space travel. Human immune responses are weakened in space, with increased vulnerability to opportunistic infections and immune-related conditions. In addition, microorganisms can become more virulent in space, causing further challenges to health. To understand these issues better and to contribute to design of effective countermeasures, we used the Drosophila model of innate immunity to study immune responses in both hypergravity and spaceflight. Focusing on infections mediated through the conserved Toll and Imd signaling pathways, we found that hypergravity improves resistance to Toll-mediated fungal infections except in a known gravitaxis mutant of the yuri gagarin gene. These results led to the first spaceflight project on Drosophila immunity, in which flies that developed to adulthood in microgravity were assessed for immune responses by transcription profiling on return to Earth. Spaceflight alone altered transcription, producing activation of the heat shock stress system. Space flies subsequently infected by fungus failed to activate the Toll pathway. In contrast, bacterial infection produced normal activation of the Imd pathway. We speculate on possible linkage between functional Toll signaling and the heat shock chaperone system. Our major findings are that hypergravity and spaceflight have opposing effects, and that spaceflight produces stress-related transcriptional responses and results in a specific inability to mount a Toll-mediated infection response.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901686/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/24475130/",
+      "DOI": "https://doi.org/10.1371/journal.pone.0086485"
+    }
+  },
+  {
+    "Title": "Author Correction: Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+    "Authors": "Beheshti, Afshin, Chakravarty, Kaushik, Fogle, Homer, Fazelinia, Hossein, Silveira, Willian A. da, Boyko, Valery, Polo, San-Huei Lai, Saravia-Butler, Amanda M., Hardiman, Gary, Taylor, Deanne, Galazka, Jonathan M., Costes, Sylvain V.",
+    "Year": "2020",
+    "Keywords": "",
+    "Abstract": "An amendment to this paper has been published and can be accessed via a link at the top of the paper.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6985101/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/31988426/",
+      "DOI": "https://doi.org/10.1038/s41598-020-58490-w"
+    },
+    "Publisher": "Springer Science and Business Media LLC"
+  },
+  {
+    "Title": "GeneLab Database Analyses Suggest Long-Term Impact of Space Radiation on the Cardiovascular System by the Activation of <i>FYN</i> Through Reactive Oxygen Species.",
+    "Authors": "Beheshti, Afshin, McDonald, J Tyson, Miller, Jack, Grabham, Peter, Costes, Sylvain V",
+    "Year": "2019",
+    "Keywords": "Space Flight, Mice, Inbred C57BL, HZE irradiation, Oxidative Stress, Protons, ROS, Cardiovascular System, iron, Reactive Oxygen Species, reactive oxygen species, Male, Animals, FYN, protons, HUVECs, cardiomyocytes, Proto-Oncogene Proteins c-fyn, space radiation, Humans, Transcriptome, Myocytes, Cardiac, Radiation, Ionizing, GeneLab, Cosmic Radiation, cardiovascular, Cells, Cultured, Gene Expression Regulation",
+    "Abstract": "Space radiation has recently been considered a risk factor for astronauts' cardiac health. As an example, for the case of how to query and identify datasets within NASA's GeneLab database and demonstrate the database utility, we used an unbiased systems biology method for identifying key genes/drivers for the contribution of space radiation on the cardiovascular system. This knowledge can contribute to designing appropriate experiments targeting these specific pathways. Microarray data from cardiomyocytes of male C57BL/6 mice followed-up for 28 days after exposure to 900 mGy of 1 GeV proton or 150 mGy of 1 GeV/n <sup>56</sup>Fe were compared to human endothelial cells (HUVECs) cultured for 7 days on the International Space Station (ISS). We observed common molecular pathways between simulated space radiation and HUVECs flown on the ISS. The analysis suggests <i>FYN</i> is the central driver/hub for the cardiovascular response to space radiation: the known oxidative stress induced immediately following radiation would only be transient and would upregulate <i>FYN</i>, which in turn would reduce reactive oxygen species (ROS) levels, protecting the cardiovascular system. The transcriptomic signature of exposure to protons was also much closer to the spaceflight signature than <sup>56</sup>Fe's signature. To our knowledge, this is the first time GeneLab datasets were utilized to provide potential biological indications that the majority of ions on the ISS are protons, clearly illustrating the power of omics analysis. More generally, this work also demonstrates how to combine animal radiation studies done on the ground and spaceflight studies to evaluate human risk in space.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6387434/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/30717456/",
+      "DOI": "https://doi.org/10.3390/ijms20030661"
+    }
+  },
+  {
+    "Title": "FAIRness and Usability for Open-access Omics Data Systems.",
+    "Authors": "Berrios, Daniel C, Beheshti, Afshin, Costes, Sylvain V",
+    "Year": "2018",
+    "Keywords": "Big Data, Information Storage and Retrieval, Databases, Factual, Semantics, Data Systems, Computational Biology, Health Information Interoperability, Access to Information, Information Dissemination",
+    "Abstract": "Omics data sharing is crucial to the biological research community, and the last decade or two has seen a huge rise in collaborative analysis systems, databases, and knowledge bases for omics and other systems biology data. We assessed the \"FAIRness\" of NASA's GeneLab Data Systems (GLDS) along with four similar kinds of systems in the research omics data domain, using 14 FAIRness metrics. The range of overall FAIRness scores was 6-12 (out of 14), average 10.1, and standard deviation 2.4. The range of Pass ratings for the metrics was 29-79%, Partial Pass 0-21%, and Fail 7-50%. The systems we evaluated performed the best in the areas of data findability and accessibility, and worst in the area of data interoperability. Reusability of metadata, in particular, was frequently not well supported. We relate our experiences implementing semantic integration of omics data from some of the assessed systems for federated querying and retrieval functions, given their shortcomings in data interoperability. Finally, we propose two new principles that Big Data system developers, in particular, should consider for maximizing data accessibility.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371294/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/30815061/",
+      "DOI": ""
+    }
+  },
+  {
+    "Title": "NASA GeneLab Platform Utilized for Biological Response to Space Radiation in Animal Models.",
+    "Authors": "McDonald, J Tyson, Stainforth, Robert, Miller, Jack, Cahill, Thomas, da Silveira, Willian A, Rathi, Komal S, Hardiman, Gary, Taylor, Deanne, Costes, Sylvain V, Chauhan, Vinita, Meller, Robert, Beheshti, Afshin",
+    "Year": "2020",
+    "Keywords": "dosimetry, space radiation, NASA, transcriptomics, GeneLab, HZE, radiation, galactic cosmic rays",
+    "Abstract": "<b>Background:</b> Ionizing radiation from galactic cosmic rays (GCR) is one of the major risk factors that will impact the health of astronauts on extended missions outside the protective effects of the Earth's magnetic field. The NASA GeneLab project has detailed information on radiation exposure using animal models with curated dosimetry information for spaceflight experiments. <b>Methods:</b> We analyzed multiple GeneLab omics datasets associated with both ground-based and spaceflight radiation studies that included <i>in vivo</i> and <i>in vitro</i> approaches. A range of ions from protons to iron particles with doses from 0.1 to 1.0 Gy for ground studies, as well as samples flown in low Earth orbit (LEO) with total doses of 1.0 mGy to 30 mGy, were utilized. <b>Results:</b> From this analysis, we were able to identify distinct biological signatures associating specific ions with specific biological responses due to radiation exposure in space. For example, we discovered changes in mitochondrial function, ribosomal assembly, and immune pathways as a function of dose. <b>Conclusions:</b> We provided a summary of how the GeneLab's rich database of omics experiments with animal models can be used to generate novel hypotheses to better understand human health risks from GCR exposures.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7072278/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/32045996/",
+      "DOI": "https://doi.org/10.3390/cancers12020381"
+    }
+  },
+  {
+    "Title": "Circulating miRNA Spaceflight Signature Reveals Targets for Countermeasure Development",
+    "Authors": "Malkani, Sherina, Chin, Christopher R., Cekanaviciute, Egle, Mortreux, Marie, Okinula, Hazeem, Tarbier, Marcel, Schreurs, Ann-Sofie, Shirazi-Fard, Yasaman, Tahimic, Candice G. T., Rodriguez, Deyra N., Sexton, Brittany S., Butler, Daniel, Verma, Akanksha, Bezdan, Daniela, Durmaz, Ceyda, MacKay, Matthew, Melnick, Ari, Meydan, Cem, Li, Sheng, Garrett-Bakelman, Francine, Fromm, Bastian, Afshinnekoo, Ebrahim, Langhorst, Brad W., Dimalanta, Eileen T., Cheng-Campbell, Margareth, Blaber, Elizabeth, Schisler, Jonathan C., Vanderburg, Charles, Friedlä nder, Marc R., McDonald, J. Tyson, Costes, Sylvain V., Rutkove, Seward, Grabham, Peter, Mason, Christopher E., Beheshti, Afshin",
+    "Year": "2020",
+    "Keywords": "general biochemistry, genetics and molecular biology",
+    "Abstract": "Disordered proteins have long been known to help mediate tolerance to different abiotic stresses including freezing, osmotic stress, high temperatures, and desiccation in a diverse set of organisms. Recently, three novel families of intrinsically disordered proteins were identified in tardigrades, microscopic animals capable of surviving a battery of environmental extremes. These three families include the Cytoplasmic-, Secreted-, and Mitochondrial- Abundant Heat Soluble (CAHS, SAHS, and MAHS) proteins, which are collectively termed Tardigrade Disordered Proteins (TDPs). At the level of sequence conservation TDPs are unique to tardigrades, and beyond their high degree of disorder the CAHS, SAHS, and MAHS families do not resemble one another. All three families are either highly expressed constitutively, or significantly enriched in response to desiccation. In vivo, ex vivo, and in vitro experiments indicate functional roles for members of each TDP family in mitigating cellular perturbations induced by various abiotic stresses. What is currently lacking is a comprehensive and holistic understanding of the fundamental mechanisms by which TDPs function, and the properties of TDPs that allow them to function via those mechanisms. A quantitative and systematic approach is needed to identify precisely what cellular damage TDPs work to prevent, what sequence features are important for these functions, and how those sequence features contribute to the underlying mechanisms of protection. Such an approach will inform us not only about these fascinating proteins, but will also provide insights into how the sequence of a disordered protein can dictate its functional, structural, and dynamic properties. Graphical abstract",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441986/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/33242410/",
+      "DOI": "https://doi.org/10.1016/j.celrep.2020.108448"
+    }
+  },
+  {
+    "Title": "Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome",
+    "Authors": "Madrigal, Pedro, Singh, Nitin K., Wood, Jason M., Gaudioso, Elena, Herná ndez-del-Olmo, Fé lix, Mason, Christopher E., Venkateswaran, Kasthuri, Beheshti, Afshin",
+    "Year": "2022",
+    "Keywords": "microbiology (medical), microbiology",
+    "Abstract": "Background Antimicrobial resistance (AMR) has a detrimental impact on human health on Earth and it is equally concerning in other environments such as space habitat due to microgravity, radiation and confinement, especially for long-distance space travel. The International Space Station (ISS) is ideal for investigating microbial diversity and virulence associated with spaceflight. The shotgun metagenomics data of the ISS generated during the Microbial Tracking-1 (MT-1) project and resulting metagenome-assembled genomes (MAGs) across three flights in eight different locations during 12 months were used in this study. The objective of this study was to identify the AMR genes associated with whole genomes of 226 cultivable strains, 21 shotgun metagenome sequences, and 24 MAGs retrieved from the ISS environmental samples that were treated with propidium monoazide (PMA; viable microbes). Results We have analyzed the data using a deep learning model, allowing us to go beyond traditional cut-offs based only on high DNA sequence similarity and extending the catalog of AMR genes. Our results in PMA treated samples revealed AMR dominance in the last flight for Kalamiella piersonii , a bacteria related to urinary tract infection in humans. The analysis of 226 pure strains isolated from the MT-1 project revealed hundreds of antibiotic resistance genes from many isolates, including two top-ranking species that corresponded to strains of Enterobacter bugandensis and Bacillus cereus . Computational predictions were experimentally validated by antibiotic resistance profiles in these two species, showing a high degree of concordance. Specifically, disc assay data confirmed the high resistance of these two pathogens to various beta-lactam antibiotics. Conclusion Overall, our computational predictions and validation analyses demonstrate the advantages of machine learning to uncover concealed AMR determinants in metagenomics datasets, expanding the understanding of the ISS environmental microbiomes and their pathogenic potential in humans.",
+    "Links": {
+      "PMC": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9400218/",
+      "PMID": "https://pubmed.ncbi.nlm.nih.gov/35999570/",
+      "DOI": "https://doi.org/10.1186/s40168-022-01332-w"
+    }
+  }
+]
